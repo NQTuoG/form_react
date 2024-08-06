@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container .demo_sass {
+  font-size: 20px;
+  color: red;
+}/*# sourceMappingURL=index.css.map */

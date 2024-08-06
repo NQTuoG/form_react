@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Avenger";
+    src: url(./../../assets/font/SVN-Avengeance.otf);
+}
+@font-face{
+    font-family: "Pony";
+    src: url(./../../assets/font/Pony.ttf);
+}
+@font-face{
+    font-family: "Batman";
+    src: url(./../../assets/font/SVN-Batman-Forever-Alternate.otf);
+}
+.baiTap2{
+    font-family: Batman;
+    background-image: url(./../../assets/img/bgGame.png);
+    @apply text-center text-2xl p-10 h-screen ;
+}
+
+.xi-ngau{
+    @apply mt-5 text-2xl;
+}
+
+.btn-play{  
+    @apply  text-white bg-green-500 rounded-md p-2 my-5 ;
+}
+
+
+.btn-xiNgau {
+    @apply text-white p-5 text-xl border-2 border-green-500 rounded-md w-40 h-40 bg-purple-500 ;
+}
