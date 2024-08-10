@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../shoes_shop"
+		},
+		{
+			"path": "../../../../../react_state"
+		},
+		{
+			"path": "../../../../../bt1_react"
+		},
+		{
+			"path": "../../../../../react_captone"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "shoes_shop"
+	}
+}
